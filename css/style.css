@@ -1,0 +1,31 @@
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/souriacassette-smallwidth.css");
+@import url("components/card.css");
+@import url("components/contact-section.css");
+@import url("components/banner2.css");
+
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web:400,600|Tomorrow:400,700,800&display=swap");
+
+body {
+	background-color: #ffffff;
+    font-family: 'Titillium Web', sans-serif;
+    line-height: 1.5;
+    color:white;
+    margin:0px;
+}
+
+h1, h2, h3 {
+	color: black;
+	font-family: 'Tomorrow', sans-serif;
+}
+
+p {
+	color:black;
+}
+
+a {
+	text-decoration: none;
+}
